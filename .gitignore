@@ -3,3 +3,8 @@ _site
 .jekyll-metadata
 .editorconfig
 *.DS_Store
+/.idea/.gitignore
+/.idea/jszhang98.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
