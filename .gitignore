@@ -8,3 +8,10 @@ _site
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.gradle/checksums/checksums.lock
+/.gradle/6.7/fileHashes/fileHashes.lock
+/.gradle/6.7/gc.properties
+/.gradle/configuration-cache/gc.properties
+/.gradle/vcs-1/gc.properties
+/.gradle/6.7/fileChanges/last-build.bin
+.jekyll-cache
