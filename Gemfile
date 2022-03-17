@@ -11,3 +11,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "webrick", "~> 1.7"
 
 gem "webrick", "~> 1.7"
+
+gem "kramdown-syntax-coderay", "~> 1.0"
+
+gem "redcarpet", "~> 3.5"
