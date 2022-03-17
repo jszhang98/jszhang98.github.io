@@ -54,7 +54,7 @@ $test{
 
 In the most cases, you only need to do same things for all methods before or after calling them. If you need to do different things for each method, I don't think that it is necessary to use proxy technology. In addition, you may hardly know what class an object need to be proxied before using them. So in fact, we need to generate an object dynamically to proxy any objects. 
 
-###How do we generate an object to proxy any objects?
+### How do we generate an object to proxy any objects?
 Actually, Jdk has a class Proxy that can generate a proxy object according to the original object without need a class. It seems quite mysterious. Jdk can not generate an object without a class as well. It only generates a hidden class to create an object. If we can disclose the object of the hidden class, we will figure out the proxy mechanism.
 
 ~~~
@@ -188,7 +188,7 @@ $DynamicaProxy1{
 
 At last, you will get the object $DynamicProxy1. we can see the calling order through a picture. 
 
-![]({{site.baseurl}}/images/proxy/2.png)
+![]({{site.baseurl}}/images/proxy/2.PNG)
 
 
 
