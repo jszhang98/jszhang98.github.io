@@ -52,3 +52,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+google_analytics: G-DSJ5BZ1GL2
